@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title</title>
+    <title>Crowd Source Mapping</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
@@ -9,13 +9,26 @@
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
       body {
-				font-family: 'Droid Serif';
-			}
+        font-family: 'Droid Serif';
+      }
+
       h1, h2, h3 {
         font-family: 'Yanone Kaffeesatz';
         font-weight: normal;
       }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+      .remark-code, .remark-inline-code {
+        font-family: 'Ubuntu Mono';
+      }
+      .remark-slide-content {
+        font-size: 2rem;
+      }
+
+      a, a:visited {
+        text-decoration: none;
+        color: dodgerblue;
+      }
+
     </style>
   </head>
   <body>
@@ -23,23 +36,334 @@
 
 class: center, middle
 
-# Crowd Sourcing Niche Maps in OSM
+# Crowd Sourcing Niche Maps
+### (with OpenStreetMap)
 
 ---
 
 # Agenda
 
-1. What do you mean "niche" map?
-2. Why you want to crowd source (or not).
-3. Overview of an approach
-4. Workshop!
+<ol>
+  <li>
+    What do you mean "niche" map?
+  </li>
+  <li>
+    About crowd sourcing.
+  </li>
+  <li>
+    Overview of an approach
+  </li>
+  <li>
+    Workshop!
+  </li>
+</ol>
 
 ---
 
-# Introduction
+class: middle
+
+<h2 style="text-align: left">
+What is a
+</h2>
+
+<h1 style="text-align: center; margin-left: -83px;">
+"niche"
+</h1>
+
+<h2 style="text-align: right">
+map anyway?
+</h2>
+
+---
+
+class: center, middle
+
+# It's a map
+
+---
+
+class: center, middle
+
+# that interests you.
+
+<img width="100%" src="images/Map-Cat.jpg" />
+
+---
+
+# A focused map of just...
+
+##  parks
+##  murals
+##  drinking fountains
+##  fruit trees
+##  arcade games
+
+---
+
+## Compare to a general purpose map.
+
+- openstreetmap.org
+- maps.google.com
+
+---
+
+class: center, middle
+
+# Examples Please!
+
+---
+
+# LA Pinball Map
+
+<a href="http://pinballmap.com/la/" target="_blank">
+  pinballmap.com/la
+</a>
+
+A map of pinball machines around the city.
+
+<img style="margin-top: 40px;" src="images/la_pinball.jpg" />
+
+---
+
+
+<div style="width: 50%; float: left">
+  <h1>Fallen Fruit</h1>
+  <a href="http://fallenfruit.org/map/" target="_blank">
+    fallenfruit.org/map
+  </a>
+  <p>
+    A map of publicly accessible fruit trees for urban foragers. 
+    (Not everything needs to be a web map!)
+  </p>
+</div>
+<img style="margin-top: 40px; width: 49%;" src="images/FallenFruitofEchoPark_web.jpg" />
+
+---
+
+<div style="width: 50%; float: left">
+  <h1> WeTap</h1>
+  <a href="http://wetap.org" target="_blank">
+    wetap.org
+  </a>
+  <p>
+    Mobile app to find drinking fountains near you.
+  </p>
+</div>
+<img style="margin-top: 40px;" src="images/wetap_map.jpg" />
+
+---
+class: center, middle
+
+# Crowd Sourcing?
+
+---
+class: center, middle
+
+(anyone?)
+
+---
+class: center, middle
+
+Getting other people to do the work!
+
+<img width="100%" src="images/lazy_cat.jpg" />
+
+---
+class: center, middle
+
+# When is this a good idea?
+
+---
+class: center, middle
+
+# When is this a bad idea?
+
+---
+class: center, middle
+
+# OK. OK. OK.
+
+---
+class: center, middle
+
+## So you want to leverage the power of the masses to contribute to your super cool map.
+
+---
+class: center, middle
+
+# How do you do that again?
+
+<img width="100%" src="images/confused_pug.jpg" />
+
+
+---
+class: center, middle
+
+# Options include...
+
+---
+
+## Handle it totally manually.
+
+<pre style="font-size: 16px;">
+Dearest Pugsly,
+
+I saw your map of fire hydrants in Los Angeles. Great work!
+
+I noticed that you missed one on 4th &amp; Main.
+
+Can you add it?
+
+Sincerely,
+Archibold
+</pre>
+
+<img style="width: 60%; float: right;" src='images/pug_letter.jpg'>
+
+
+---
+class: center, middle
+
+# Really not that bad of an option.
+
+---
+class: middle
+
+## Straight forward
+## Don't have use any service or write any code
+## Easy for people to contribute
+
+---
+class: center, middle
+
+# But it doesn't really scale.
+
+---
+
+class: center, middle
+
+# Fancy Option!
+
+---
+
+## Build something custom
+
+- Design an interface for people to contribute
+- Build a back end service to store this data
+
+<img style="width: 100%; float: right;" src='images/cat_coding.jpg'>
+
+---
+
+class: center, middle
+
+# DEMO!
+
+---
+
+## Upside
+
+You can build a really nice interface tailored to your use case.
+
+---
+
+## Downsides
+
+- Takes a lot of work (or a lot of $$$)
+- You have to make sure the server doesn't go down.
+- Still have the issue of bootstrapping your data set.
+
+---
+class: center, middle
+
+# Another option for getting crowd sourced data...
+
+---
+class: center, middle
+
+# OpenStreetMap!
+
+<a href="http://www.openstreetmap.org">www.openstreetmap.org</a>
+
+---
+class: center, middle
+
+## What is OpenStreetMap?
+
+---
+class: center, middle
+
+(anyone else?)
+
+---
+class: center, middle
+## What do we get from OSM?
+
+---
+
+## Two kinds of data in OSM.
+
+- *Where* the thing is.
+- *What* the thing is.
+
+---
+# *Where* the thing is.
+
+Think latitiude/longitude, size and shape.
+
+We call this the "geometry" of the thing.
+
+---
+# *What* the thing is.
+
+Is it a building, tree, street, drinking fountain?
+
+- [Fire Hydrant](https://taginfo.openstreetmap.org/tags/emergency=fire_hydrant)
+- [Road](https://taginfo.openstreetmap.org/keys/highway)
+- [Drinking Fountain](https://taginfo.openstreetmap.org/tags/amenity=drinking_water)
+
+This information is represented in OSM using "tags".
+
+---
+
+## A single geometry can, and usually does have multiple tags.
+
+- a building
+- a restaurant
+- vegetarian
+- wheelchair accessible
+- built in 1932
+
+---
+
+### Tags are often represented as "key=value" pairs.
+
+- [building=yes](https://taginfo.openstreetmap.org/tags/building=yes)
+- [amenity=restaurant](https://taginfo.openstreetmap.org/tags/amenity=restaurant)
+- [cuisine=vegetarian](https://taginfo.openstreetmap.org/tags/cuisine=vegetarian)
+- [wheelchair=yes](https://taginfo.openstreetmap.org/tags/wheelchair=yes)
+- [start_date=1932](https://taginfo.openstreetmap.org/tags/start_date=1932)
+
+---
+
+## And some are more obscure
+
+- [diet=lacto_vegetarian](https://taginfo.openstreetmap.org/tags/diet=lacto_vegetarian)
+- [crop=tea](https://taginfo.openstreetmap.org/tags/crop=tea)
+- [funicular=yes](https://taginfo.openstreetmap.org/tags/funicular=yes)
+
+<img width="100%" src="images/kiev-funicular.jpg" />
+
+---
+
+class: center, middle
+
+# Workshop!
+
+---
 
     </textarea>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    <script src="/presentation/javascripts/remark-latest.min.js">
     </script>
     <script>
       var slideshow = remark.create();
