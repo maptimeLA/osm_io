@@ -179,6 +179,12 @@ class: center, middle
 # When is this a bad idea?
 
 ---
+
+- small dataset
+- if you need authoritative data
+- good open data sources already exist
+
+---
 class: center, middle
 
 # OK. OK. OK.
@@ -188,13 +194,13 @@ class: center, middle
 
 ## So you want to leverage the power of the masses to contribute to your super cool map.
 
+<img width="100%" src="images/many_pugs.jpg" />
 ---
 class: center, middle
 
 # How do you do that again?
 
 <img width="100%" src="images/confused_pug.jpg" />
-
 
 ---
 class: center, middle
@@ -220,7 +226,6 @@ Archibold
 
 <img style="width: 60%; float: right;" src='images/pug_letter.jpg'>
 
-
 ---
 class: center, middle
 
@@ -230,7 +235,7 @@ class: center, middle
 class: middle
 
 ## Straight forward
-## Don't have use any service or write any code
+## Don't have to use any service or write any code
 ## Easy for people to contribute
 
 ---
@@ -300,6 +305,11 @@ class: center, middle
 ## What do we get from OSM?
 
 ---
+class: center, middle
+
+# Much more than just streets and buildings.
+
+---
 
 ## Two kinds of data in OSM.
 
@@ -307,26 +317,41 @@ class: center, middle
 - *What* the thing is.
 
 ---
-# *Where* the thing is.
+# *Where* the thing is...
 
-Think latitiude/longitude, size and shape.
+Think latitiude, longitude, size, and shape.
 
 We call this the "geometry" of the thing.
 
 ---
-# *What* the thing is.
+# *What* the thing is...
 
-Is it a building, tree, street, drinking fountain?
+Is it a building, road, drinking fountain, etc?
 
 - [Fire Hydrant](https://taginfo.openstreetmap.org/tags/emergency=fire_hydrant)
 - [Road](https://taginfo.openstreetmap.org/keys/highway)
 - [Drinking Fountain](https://taginfo.openstreetmap.org/tags/amenity=drinking_water)
 
-This information is represented in OSM using "tags".
+Represented in OSM using "tags"
+
+Thus, one *tags* the *geometry*.
+
+---
+class: center, middle
+
+# Does that make sense?
+
+<img width="33%" src="images/pug-question.jpg" />
+
+---
+class: center, middle
+
+## A single geometry can, and usually does have multiple tags.
 
 ---
 
-## A single geometry can, and usually does have multiple tags.
+For example a vegetarian restaurant in a wheelchair accessible building that
+was built in 1932 should have these tags:
 
 - a building
 - a restaurant
@@ -336,7 +361,7 @@ This information is represented in OSM using "tags".
 
 ---
 
-### Tags are often represented as "key=value" pairs.
+### We represent tags precisely as "key=value" pairs.
 
 - [building=yes](https://taginfo.openstreetmap.org/tags/building=yes)
 - [amenity=restaurant](https://taginfo.openstreetmap.org/tags/amenity=restaurant)
@@ -345,14 +370,94 @@ This information is represented in OSM using "tags".
 - [start_date=1932](https://taginfo.openstreetmap.org/tags/start_date=1932)
 
 ---
+class: middle, center
 
-## And some are more obscure
+# There are *LOTS* of tags
+
+<a href="https://taginfo.openstreetmap.org" target="_blank">taginfo.openstreetmap.org</a>
+
+---
+
+## Some are kind of obscure
 
 - [diet=lacto_vegetarian](https://taginfo.openstreetmap.org/tags/diet=lacto_vegetarian)
 - [crop=tea](https://taginfo.openstreetmap.org/tags/crop=tea)
 - [funicular=yes](https://taginfo.openstreetmap.org/tags/funicular=yes)
 
 <img width="100%" src="images/kiev-funicular.jpg" />
+
+---
+class: middle, center
+
+# So, putting that all together...
+---
+
+We can make a crowd sourced map from OSM data provided:
+
+- The data exists in OSM.
+- We know the appropriate tags.
+
+---
+class: middle, center
+
+### But what if the data isn't already in OSM?
+
+---
+class: middle, center
+
+### Depending on the data, that's likely.
+
+---
+class: middle, center
+
+# Anyone can contribute to OpenStreetMap.
+
+That's the "crowdsourcing" part.
+
+---
+# *You* can contribute to OpenStreetMap.
+
+You can add points directly on the [openstreetmap.org](https://openstreetmap.org) website.
+
+Or if you are going to be doing a lot of editing, you might prefer a desktop
+apps like we have been using for the LA Building Import.
+
+---
+
+# Wait.
+
+## You guys know about the LA Building Import right?
+
+http://labuildingsimport.com/
+
+(Jon?)
+
+---
+# Mapping on the go
+
+There are mobile apps so you can map things as you walk/bike/hike.
+
+### Android: Vespucci OSM Editor
+
+https://play.google.com/store/apps/details?id=de.blau.android
+
+### iOS: Go Mapp!
+
+https://itunes.apple.com/us/app/go-map!!/id592990211?mt=8
+
+---
+class: middle, center
+
+# Demo!
+
+<img style="float: left; width: 49%;" src="images/gomap1.jpg" />
+<img style="width: 49%;" src="images/gomap2.jpg" />
+
+---
+
+### Getting the data out
+
+So, now we are ready to go.
 
 ---
 
