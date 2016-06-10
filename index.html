@@ -30,7 +30,7 @@
 <script src='osmtogeojson.js'></script>
 
 
-<h1 class="title">Map of &lt;YOUR NICHE HERE&gt;</h1>
+<h1 class="title">Map of Map1</h1>
 <div id='map'>
 </div>
 <script>
@@ -61,6 +61,27 @@ $.ajax({
     }).addTo(map);
   }
 });
+// $.ajax({
+//   url: "export2.json",
+//   success: function(osmjson) {
+//     // Overpass uses a different format of json than leaflet expects.
+//     // Here we transform it using osmtogeojson
+//     var geojson = osmtogeojson(osmjson);
+//
+//     L.geoJson(geojson, {
+//       onEachFeature: function (feature, layer) {
+//
+//         // Make a popup for each feature containing the tags for that feature
+//         var popupContent = "<b>Tags:<b><br />";
+//         for (var key in feature.properties.tags) {
+//           popupContent += key + "=" + feature.properties.tags[key] + "<br />";
+//         }
+//
+//         layer.bindPopup(popupContent);
+//       }
+//     }).addTo(map);
+//   }
+// });
 
 </script>
 </body>
