@@ -7,18 +7,31 @@ very niche) Geo Data.
 You can follow along with the [presentation
 here](http://maptimela.github.io/osm_io/presentation).
 
+### Prerequisites
+
+- Install a text editor which we'll use to edit the code for your web  map. Like toothpaste, there are too many choices, and they are all  pretty much fine. For example https://www.sublimetext.com/3
+
+- Install Python which we'll use as a local server so you can see the  web map your code generates. https://www.python.org/downloads/ (try  the 3.5.1 version, but any version should be fine)  If you get hung up, no worries, just ask. =)
+
+- Set up a GitHub account (https://github.com/) and install git. Git  comes in a graphical flavor for pointing and clicking: https://desktop.github.com/  and a command line flavor: https://git-scm.com/. Either is fine.  We'll use it to publish your map and share the code that powers it. Having trouble? Just ask. =)
+
 Getting Started / Sanity Check
 ------------------------------
 
-
-Clone this repository to get started.
+Clone this repository to get started. Don't know what that means? Ask =)
 
     git clone https://github.com/maptimeLA/osm_io.git
 
-And start your local webserver to make sure everything is rigged up.
+Do you have python installed?
+If so, you can start your local webserver to make sure everything is rigged up.
 
     cd osm_io
     python -m SimpleHTTPServer
+    
+Don't know if you have python installed? Ask =)
+You can install it here. https://www.python.org/downloads/
+
+
 
 If that looks like it's working, you should be able to go to your
 browser and go to localhost:8000.
