@@ -28,6 +28,10 @@ If so, you can start your local webserver to make sure everything is rigged up.
     cd osm_io
     python -m SimpleHTTPServer
     
+If you have python 3 installed run this command to start your local webserver.
+
+    python3 -m http.server
+    
 Don't know if you have python installed? Ask =)
 You can install it here. https://www.python.org/downloads/
 
