@@ -5,7 +5,7 @@ Using [OSM](https://openstreetmap.org) as a source/store for my (maybe
 very niche) Geo Data.
 
 You can follow along with the [presentation
-here](maptimela.github.io/osm_io/presentation).
+here](http://maptimela.github.io/osm_io/presentation).
 
 Getting Started / Sanity Check
 ------------------------------
