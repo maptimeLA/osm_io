@@ -1,0 +1,1805 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-06-10T03:27:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 30969137,
+      "lat": 53.4742341,
+      "lon": -2.2374705,
+      "tags": {
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "Joshua Brooks",
+        "real_ale": "yes",
+        "real_cider": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287763936,
+      "lat": 60.3917854,
+      "lon": 5.3206608,
+      "tags": {
+        "addr:floor": "2",
+        "addr:housenumber": "10",
+        "addr:street": "Engen",
+        "amenity": "pub",
+        "brewery": "Guinness; Frydenlund; Kinn, Nøgne Ø",
+        "craft_beer": "yes",
+        "description": "Got a a huge draft beer selection(100+), the place in town if you love craft beer.",
+        "name": "Henrik øl og vinstove",
+        "outdoor_seating": "yes",
+        "website": "http://www.ve.no/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 307642219,
+      "lat": 53.4882586,
+      "lon": -2.232374,
+      "tags": {
+        "amenity": "pub",
+        "camra": "yes",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "Marble Arch Inn",
+        "operator": "Marble Beers",
+        "real_ale": "yes",
+        "real_cider": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308375621,
+      "lat": 53.4853818,
+      "lon": -2.2344896,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Blackjack",
+        "craft_beer": "yes",
+        "name": "The Smithfield",
+        "note": "Brewery tap of Blackjack Brewery",
+        "real_ale": "yes",
+        "real_cider": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 359239780,
+      "lat": 52.3702533,
+      "lon": 4.8887186,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Raamsteeg",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "name": "Cafe Gollem"
+      }
+    },
+    {
+      "type": "node",
+      "id": 391946425,
+      "lat": 60.3905751,
+      "lon": 5.3197592,
+      "tags": {
+        "addr:city": "Bergen",
+        "addr:floor": "1",
+        "addr:housenumber": "21",
+        "addr:postcode": "5015",
+        "addr:street": "Sigurds gate",
+        "alt_name": "Baran",
+        "amenity": "pub",
+        "brewery": "Pilsner Urquell; Krombacher Weizen; Delirium Tremens; Old Speckled Hen; To Øl Nelson Survin; Baran Bryggeri;",
+        "contact:facebook": "http://facebook.com/baranbryggeri",
+        "craft_beer": "yes",
+        "email": "post@baranbryggeri.no",
+        "internet_access": "yes",
+        "internet_access:ssid": "Baran",
+        "name": "Cafe Baran",
+        "phone": "+47 917 35 574",
+        "toilets": "yes",
+        "website": "http://baranbryggeri.no/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 426959803,
+      "lat": 53.473544,
+      "lon": -2.241214,
+      "tags": {
+        "amenity": "bar",
+        "cocktails": "yes",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "The Font",
+        "real_ale": "yes",
+        "real_cider": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 695140320,
+      "lat": 60.3911682,
+      "lon": 5.3217154,
+      "tags": {
+        "addr:city": "Bergen",
+        "addr:floor": "1",
+        "addr:housenumber": "14",
+        "addr:postcode": "5014",
+        "addr:street": "Vaskerelven",
+        "amenity": "pub",
+        "brewery": "Nøgne Ø; Ægir Bryggeri; Waldemars; Hansa; Kinn; Balder; Brasserie Cantillon; Austmann Bryggeri; Lysefjorden Mikrobryggeri; 7 Fjell Bryggeri",
+        "contact:facebook": "https://www.facebook.com/pingvinenbergen",
+        "craft_beer": "yes",
+        "email": "pingvinen@engengruppen.no",
+        "name": "Pingvinen",
+        "opening_hours": "Mo-Su 14:00-03:00",
+        "phone": "+47 55 60 46 46",
+        "source": "local_knowledge",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 725099916,
+      "lat": 53.3501036,
+      "lon": -6.2510898,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Amiens Street",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "name": "The Brew Dock",
+        "toilets:wheelchair": "no",
+        "website": "http://www.winefoodbeer.com/the-brew-dock/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Door at the entrance pretty narrow ( see picture)\n\nCan ask pub staff to access gents toilet on ground floor."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1297083378,
+      "lat": 53.4820733,
+      "lon": -2.2318876,
+      "tags": {
+        "addr:housenumber": "39-41",
+        "addr:postcode": "M1 2EQ",
+        "addr:street": "Port Street",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "name": "Port Street Beer House",
+        "opening_hours": "Mo-Fr 16:00-00:00; Sa 16:00-02:00; Su 12:00-00:00",
+        "real_ale": "yes",
+        "real_cider": "yes",
+        "website": "http://www.portstreetbeerhouse.co.uk/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437425692,
+      "lat": 55.7486975,
+      "lon": 37.5885149,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/eric.the.red.pub",
+        "contact:phone": "+7 499 5051833",
+        "contact:website": "http://ericthered.ru",
+        "craft_beer": "yes",
+        "name": "Эрик Рыжий",
+        "opening_hours": "Mo-Fr 08:00-24:00; Sa,Su 00:00-02:00,08:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1498206424,
+      "lat": 59.9175723,
+      "lon": 10.754102,
+      "tags": {
+        "addr:city": "Oslo",
+        "addr:country": "NO",
+        "addr:housenumber": "29",
+        "addr:postcode": "0182",
+        "addr:street": "Hausmanns gate",
+        "amenity": "cafe",
+        "craft_beer": "yes",
+        "cuisine": "mexican",
+        "diet:vegetarian": "yes",
+        "name": "Café Sara",
+        "website": "http://www.cafesara.no/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1640831015,
+      "lat": 53.4229518,
+      "lon": -2.1993462,
+      "tags": {
+        "craft_beer": "yes",
+        "name": "The Beer Shop",
+        "real_ale": "yes",
+        "real_cider": "yes",
+        "shop": "alcohol",
+        "website": "http://www.ukbeershop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1765136160,
+      "lat": 53.4781501,
+      "lon": -2.2472403,
+      "tags": {
+        "addr:city": "Manchester",
+        "addr:housenumber": "35",
+        "addr:postcode": "M2 5BG",
+        "addr:street": "Peter Street",
+        "amenity": "bar",
+        "brewery": "BrewDog",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "BrewDog Manchester",
+        "opening_hours": "Mo-Sa 12:00-01:00, Su 12:00-00:00",
+        "operator": "BrewDog",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "http://www.brewdog.com/bars/manchester",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1898421317,
+      "lat": 53.4743646,
+      "lon": -2.2523159,
+      "tags": {
+        "addr:city": "Manchester",
+        "addr:housenumber": "374",
+        "addr:postcode": "M3 4LY",
+        "addr:street": "Deansgate",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "The Knott",
+        "phone": "0161 839 9229",
+        "real_ale": "yes",
+        "website": "knottbar.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1998604230,
+      "lat": 53.401434,
+      "lon": -2.1523352,
+      "tags": {
+        "addr:street": "Hempshaw Lane",
+        "brewery": "Quantum Brewing Company",
+        "craft": "brewery",
+        "craft_beer": "yes",
+        "microbrewery": "yes",
+        "name": "Quantum Brewing Company",
+        "real_ale": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2043878238,
+      "lat": 51.5151492,
+      "lon": -0.1372863,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "21-22",
+        "addr:postcode": "W1F 8QQ",
+        "addr:street": "Poland Street",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "name": "BrewDog SoHo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2121260247,
+      "lat": 55.7667471,
+      "lon": 37.634181,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/ILikecraftbar",
+        "contact:phone": "+7 916 5559904",
+        "craft_beer": "yes",
+        "name": "I like craft",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 00:00-01:00,11:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2428194686,
+      "lat": 55.7614478,
+      "lon": 37.6407939,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B0-1623665924568261",
+        "contact:phone": "+7 495 2264825",
+        "contact:website": "http://krapivabar.ru",
+        "craft_beer": "yes",
+        "name": "Крапива",
+        "name:en": "Krapiva",
+        "opening_hours": "Mo-Th 12:00-23:00; Fr 12:00-24:00; Sa 12:00-05:00; Su 12:00-05:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2479463255,
+      "lat": 55.7608094,
+      "lon": 37.6499898,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/sosnaandlipa",
+        "craft_beer": "yes",
+        "email": "sosnaandlipa@gmail.com",
+        "name": "Сосна и липа",
+        "name:en": "Sosna i Lipa",
+        "opening_hours": "Mo-Su 14:00-23:00",
+        "website": "https://m.facebook.com/sosnaandlipa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2698562719,
+      "lat": 55.7609132,
+      "lon": 37.6226413,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/maycraftbar",
+        "contact:phone": "+7 495 6213045",
+        "craft_beer": "yes",
+        "name": "Май",
+        "name:en": "May",
+        "opening_hours": "Mo-Fr 13:00-24:00; Sa,Su 00:00-02:00,14:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2775416976,
+      "lat": 55.7723701,
+      "lon": 37.683065,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "HopHeadCraftBeerPub",
+        "contact:phone": "+7 968 8101888",
+        "contact:website": "http://www.hophead.ru",
+        "craft_beer": "yes",
+        "internet_access": "wlan",
+        "name": "HopHead Craft Beer Pub",
+        "opening_hours": "Mo,Su 12:00-01:00; Tu,We 12:00-02:00; Th 12:00-03:00; Fr,Sa 12:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2839876143,
+      "lat": 60.3911834,
+      "lon": 5.3203908,
+      "tags": {
+        "addr:city": "Bergen",
+        "addr:housenumber": "18",
+        "addr:postcode": "5015",
+        "addr:street": "Neumanns gate",
+        "amenity": "pub",
+        "brewery": "Hansa IPA, Hansa Pils; Newcastle Brown Ale; Murhpys; Heineken; Brewdog Punk IPA; Waldermars ; Brewdog Vagabond Pale Ale; Ægir Bryggeri India Pale Ale; Nøgne Ø Porter; Nøgne Ø Secret Vic; Brewdog 5A.M. Saint;",
+        "craft_beer": "yes",
+        "internet_access": "yes",
+        "internet_access:ssid": "Biskopen",
+        "name": "Biskopen",
+        "opening_hours": "Mo-Th 18:00-03:00; Fr-Sa 15:00-03:00; Su 18:00-03:00",
+        "phone": "+47 981 45 707",
+        "toilets": "yes",
+        "website": "http://www.biskopen.no/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2839876145,
+      "lat": 60.3916254,
+      "lon": 5.3203969,
+      "tags": {
+        "addr:city": "Bergen",
+        "addr:floor": "1",
+        "addr:housenumber": "12",
+        "addr:postcode": "5011",
+        "addr:street": "Engen",
+        "amenity": "pub",
+        "brewery": "7Fjell; Kinn; Samuel Adams; Brewdog; Ægir; Nøgne Ø; Bayerische Staatsbrauerei Weihenstephan; To Øl; Magners; Hansa",
+        "craft_beer": "yes",
+        "email": "godserveringas@gmail.com",
+        "name": "Elefanten",
+        "opening_hours": "Mo 12:00-01:00; Tu-Sa 12:00-02:30; Su 14:00-01:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2839876151,
+      "lat": 60.3916027,
+      "lon": 5.3187607,
+      "tags": {
+        "addr:city": "Bergen",
+        "addr:housenumber": "2A",
+        "addr:postcode": "5015",
+        "addr:street": "Neumanns gate",
+        "amenity": "restaurant",
+        "brewery": "Voss; Founders Brewing Co; San Miguel; Brouwerij Rodenbach; Meantime Brewing Company; Ekangersmuget; Lindheim Ølkompani",
+        "contact:facebook": "https://www.facebook.com/Royalgourmetburger",
+        "craft_beer": "yes",
+        "cuisine": "burger",
+        "email": "post@royalburger.no",
+        "name": "Royal Gourmetburger & Gin",
+        "opening_hours": "Mo-Su 15:00-24:00",
+        "phone": "56 90 12 33",
+        "takeaway": "yes",
+        "website": "http://royalburger.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977551021,
+      "lat": 55.7626902,
+      "lon": 37.6068326,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "craftbar.msk",
+        "contact:phone": "+7 925 5628990",
+        "craft_beer": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Все твои друзья",
+        "name:en": "Vse Tvoyi Drouzia",
+        "opening_hours": "Mo-Su 10:00-03:00; Th-Sa 10:00-06:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3069190032,
+      "lat": 55.7504295,
+      "lon": 37.5951751,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/balalaechnaya",
+        "contact:phone": "+7 495 7409061",
+        "craft_beer": "yes",
+        "name": "Балалаечная",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3109151679,
+      "lat": 55.7650604,
+      "lon": 37.6085225,
+      "tags": {
+        "alt_name": "Бирмаркет",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/beermarketbar",
+        "contact:phone": "+7 905 7414141",
+        "craft_beer": "yes",
+        "name": "Beermarket",
+        "opening_hours": "Mo,Su 11:00-21:30; Tu-Sa 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3183738183,
+      "lat": 55.7626433,
+      "lon": 37.6064022,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/craftrepublic.ru",
+        "contact:phone": "+7 495 6298984",
+        "craft_beer": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Craft Republic",
+        "opening_hours": "Mo-Su 14:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3246839597,
+      "lat": 40.759564,
+      "lon": -73.9897134,
+      "tags": {
+        "addr:housenumber": "328",
+        "addr:street": "West 45th Street",
+        "amenity": "bar",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "Beer Culture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3336224898,
+      "lat": 55.7699906,
+      "lon": 37.5972045,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pivbar1",
+        "contact:phone": "+7 929 6730541",
+        "craft_beer": "yes",
+        "name": "Pivbar",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3379758182,
+      "lat": 55.743339,
+      "lon": 37.6295146,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "2",
+        "addr:street": "Пятницкий переулок",
+        "contact:phone": "+7 968 7935647",
+        "contact:website": "http://glavpivmag.com",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "ГлавПивМаг",
+        "name:en": "GlavPivMag",
+        "opening_hours": "Mo-Fr 11:00-20:00; Sa,Su 11:00-19:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400988356,
+      "lat": 55.7416045,
+      "lon": 37.6522906,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "http://craft-draft.ru",
+        "craft_beer": "yes",
+        "name": "Craft & Draft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3414026668,
+      "lat": 55.7770972,
+      "lon": 37.5851811,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/BeerCraftBar",
+        "contact:phone": "+7 915 0087688",
+        "craft_beer": "yes",
+        "name": "БИРкрафт",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426809400,
+      "lat": 53.4784661,
+      "lon": -2.2318021,
+      "tags": {
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "fixme": "position estimated",
+        "name": "Piccadilly Tap",
+        "real_ale": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3461857895,
+      "lat": 55.742124,
+      "lon": 37.6552813,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 925 0050542",
+        "contact:website": "https://www.facebook.com/varkacraftbar",
+        "craft_beer": "yes",
+        "name": "Варка",
+        "name:en": "Varka",
+        "opening_hours": "Mo-Th 13:00-24:00; Fr 00:00-02:00,13:00-24:00; Sa 00:00-02:00,14:00-24:00; Su 14:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3573306104,
+      "lat": 55.7408094,
+      "lon": 37.6090495,
+      "tags": {
+        "alt_name": "Ваня нальет",
+        "amenity": "pub",
+        "contact:phone": "+7 917 5251819",
+        "craft_beer": "yes",
+        "name": "Ваня нальёт",
+        "name:en": "Vanya Nal'yot",
+        "opening_hours": "Mo-Su 13:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3620591650,
+      "lat": 55.7417767,
+      "lon": 37.652305,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 495 1554945",
+        "contact:website": "http://vk.com/cansandbeer",
+        "craft_beer": "yes",
+        "name": "Cans & Beer",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3640912495,
+      "lat": 55.7387163,
+      "lon": 37.653034,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pages/%D0%9A%D1%80%D0%B0%D1%84%D1%82-%D0%9F%D0%B0%D0%B1-%D0%A7%D0%B0%D0%BA-%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D1%81/469609749868556",
+        "craft_beer": "yes",
+        "name": "Чак Норрис",
+        "name:en": "Chuk Norris",
+        "opening_hours": "Mo-Su 14:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3642902908,
+      "lat": 55.7301044,
+      "lon": 37.6253136,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 968 7811528",
+        "contact:website": "http://pitcher-pub.ru",
+        "craft_beer": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Pitcher",
+        "opening_hours": "Mo-Su 14:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3642902911,
+      "lat": 55.7608165,
+      "lon": 37.6461455,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "2",
+        "addr:street": "Пятницкий переулок",
+        "amenity": "pub",
+        "contact:phone": "+7 968 7935647",
+        "contact:website": "http://glavpivmag.com",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "ГлавПивМаг",
+        "name:en": "GlavPivMag",
+        "opening_hours": "Mo-Fr 10:00-23:00; Sa,Su 10:00-22:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656471073,
+      "lat": 55.7442203,
+      "lon": 37.6792773,
+      "tags": {
+        "contact:phone": "+7 963 6078517",
+        "contact:website": "http://vk.com/localcraftshop",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Крафтер",
+        "name:en": "Crafter",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656471074,
+      "lat": 55.8452458,
+      "lon": 37.3616719,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/crafthousemoscow",
+        "contact:phone": "+7 925 9081939",
+        "contact:website": "http://www.crafthouse.moscow",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Крафтхаус",
+        "name:en": "Crafthouse",
+        "name:ru": "Крафтхаус",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3671918560,
+      "lat": 55.7704907,
+      "lon": 37.6333854,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pivocraft",
+        "contact:phone": "+7 929 6773566",
+        "contact:website": "http://www.pivocraft.ru",
+        "craft_beer": "yes",
+        "name": "Эль и стаут",
+        "name:en": "Ale&Stout",
+        "opening_hours": "Mo-We 15:00-24:00; Th 13:00-24:00; Fr-Su 00:00-01:00,13:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3689700046,
+      "lat": 55.815517,
+      "lon": 37.3528498,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 495 2202068",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "The Firm",
+        "opening_hours": "Mo-Fr 14:00-23:00; Sa,Su 12:00-23:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3695230502,
+      "lat": 55.8092632,
+      "lon": 37.3246922,
+      "tags": {
+        "contact:phone": "+7 495 2151588",
+        "contact:website": "http://vk.com/tsarpivo",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Царь-пиво",
+        "opening_hours": "Mo-Su 11:00-23:00; We 13:00-23:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3695230503,
+      "lat": 55.8196446,
+      "lon": 37.3644902,
+      "tags": {
+        "contact:phone": "+7 495 2151588",
+        "contact:website": "http://vk.com/tsarpivo",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Царь-пиво",
+        "opening_hours": "Mo 13:00-23:00; Tu-Su 11:00-23:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3711746884,
+      "lat": 55.7512978,
+      "lon": 37.6070209,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/ruletaproom",
+        "contact:website": "http://ruletaproom.tilda.ws",
+        "craft_beer": "yes",
+        "name": "Rule Taproom",
+        "opening_hours": "Tu-Fr 18:00-24:00; Sa,Su 00:00-02:00,18:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3711746885,
+      "lat": 55.763287,
+      "lon": 37.6546802,
+      "tags": {
+        "alt_name": "Магазин-бар Крафт Пиво",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/BKiKo.Bar",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "microbrewery": "yes",
+        "name": "Бутылка, кружка и котел",
+        "opening_hours": "Su-Th 12:00-23:00; Fr-Sa 12:00-00:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3744149102,
+      "lat": 55.7651166,
+      "lon": 37.6023754,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "https://vk.com/crafterbar",
+        "craft_beer": "yes",
+        "name": "Crafter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3775151211,
+      "lat": 55.7741378,
+      "lon": 37.6183783,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/littlecraft.bar",
+        "contact:phone": "+7 915 1892873",
+        "craft_beer": "yes",
+        "name": "Little Craft Bar",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3783946927,
+      "lat": 55.7821607,
+      "lon": 37.5996425,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/fcpub",
+        "contact:phone": "+7 963 6450506",
+        "craft_beer": "yes",
+        "name": "Fcking Craft Pub",
+        "opening_hours": "Mo-Su 00:00-02:00,12:00-24:00; Tu-Fr 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3789015872,
+      "lat": 55.7707405,
+      "lon": 37.5963996,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 499 1308343",
+        "contact:website": "http://www.pasternak-bar.ru",
+        "craft_beer": "yes",
+        "name": "PasternakBar",
+        "opening_hours": "Mo-Th 17:00-24:00; Fr-Su 00:00-01:00,17:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3799307869,
+      "lat": 55.781657,
+      "lon": 37.5930346,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Drunk-Craft-Bar-1473277132982254",
+        "contact:phone": "+7 909 6205040",
+        "craft_beer": "yes",
+        "name": "Drunk Craft Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3809925864,
+      "lat": 55.76504,
+      "lon": 37.6082931,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 499 5306775",
+        "contact:website": "http://craftstation.ru",
+        "craft_beer": "yes",
+        "name": "Craft Station",
+        "opening_hours": "Mo 11:45-24:00; Tu-Fr 00:00-03:00,11:45-24:00; Sa,Su 00:00-06:00,11:45-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3815929009,
+      "lat": 41.3762214,
+      "lon": 2.1388126,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Plaça d'Osca",
+        "amenity": "bar",
+        "craft_beer": "yes",
+        "name": "Homo Sibaris"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844250923,
+      "lat": 55.7586965,
+      "lon": 37.6389337,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pabLoraCraft",
+        "contact:phone": "+7 929 6815878",
+        "craft_beer": "yes",
+        "name": "Лара Крафт",
+        "opening_hours": "Mo-Su 09:00-23:00; Fr,Sa 09:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3859593136,
+      "lat": 55.7699299,
+      "lon": 37.6324843,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/beerhappens",
+        "contact:phone": "+7 495 6083998",
+        "contact:website": "http://beerhappens.ru",
+        "craft_beer": "yes",
+        "name": "Beer Happens",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa,Su 00:00-02:00,12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3876413468,
+      "lat": 55.7567831,
+      "lon": 37.6268855,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pivbar1",
+        "craft_beer": "yes",
+        "name": "Pivbar",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3887374193,
+      "lat": 55.7415954,
+      "lon": 37.6516261,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/hlstk.bar",
+        "contact:phone": "+7 499 9911505",
+        "craft_beer": "yes",
+        "name": "Hlstk",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa,Su 00:00-03:00,12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3893310161,
+      "lat": 55.7708102,
+      "lon": 37.6251978,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/theheroesbar",
+        "contact:phone": "+7 917 5314515",
+        "craft_beer": "yes",
+        "name": "Герои",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa,Su 00:00-03:00,12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3917239406,
+      "lat": 55.7412551,
+      "lon": 37.6267881,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 926 0135434",
+        "craft_beer": "yes",
+        "name": "Underdog",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3938141636,
+      "lat": 60.3962355,
+      "lon": 5.3251861,
+      "tags": {
+        "addr:city": "Bergen",
+        "addr:floor": "0",
+        "addr:housenumber": "7",
+        "addr:postcode": "5003",
+        "addr:street": "Bryggen",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "email": "una@unarestaurant.no",
+        "name": "Una Mikrobryggeri & Kjøkken",
+        "outdoor_seating": "yes",
+        "website": "http://www.unabryggen.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3946173957,
+      "lat": 55.8352269,
+      "lon": 37.4906755,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+7 925 8667873",
+        "craft_beer": "yes",
+        "name": "Beertep Craft Pub",
+        "opening_hours": "Mo-Su 13:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3946173969,
+      "lat": 55.7523268,
+      "lon": 37.5971319,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pies.moscow",
+        "contact:phone": "+7 499 3722707",
+        "craft_beer": "yes",
+        "name": "Пайс паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3946173971,
+      "lat": 55.7877189,
+      "lon": 37.6352554,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/PIGandMOUSE.Bar",
+        "contact:phone": "+7 963 9638815",
+        "craft_beer": "yes",
+        "name": "Свинья и мышь",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3989633679,
+      "lat": 55.7573861,
+      "lon": 37.6335796,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Barboroda",
+        "contact:phone": "+7 925 4799541",
+        "craft_beer": "yes",
+        "name": "Борода",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa,Su 00:00-05:00,12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4063775042,
+      "lat": 55.8062982,
+      "lon": 37.5124212,
+      "tags": {
+        "addr:housenumber": "78/1",
+        "addr:street": "Ленинградский проспект",
+        "contact:website": "https://vk.com/pintacrafta",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Пинта Крафта",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "phone": "+79671851545",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4067222289,
+      "lat": 51.5045928,
+      "lon": -0.1148896,
+      "tags": {
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Waterloo Tap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4083178619,
+      "lat": 55.836009,
+      "lon": 37.3168874,
+      "tags": {
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Пена",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4114063117,
+      "lat": 55.8203686,
+      "lon": 37.3775676,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/groups/421441384727779/",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Ели мясо мужики",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4114628802,
+      "lat": 55.7614486,
+      "lon": 37.6580992,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/onemore.moscow",
+        "contact:phone": "+7 495 2800845",
+        "craft_beer": "yes",
+        "name": "One More Beer & Wine",
+        "opening_hours": "Mo-We 12:00-23:30; Th 12:00-24:00; Fr,Sa 00:00-03:00,12:00-24:00; Su 00:00-03:00,12:00-23:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4114628805,
+      "lat": 55.7504335,
+      "lon": 37.5822463,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/protochniy",
+        "contact:phone": "+7 499 2412649",
+        "craft_beer": "yes",
+        "name": "Проточный",
+        "opening_hours": "Tu-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4155689929,
+      "lat": 55.6417439,
+      "lon": 37.5417343,
+      "tags": {
+        "amenity": "bar",
+        "contact:phone": "+7 926 5532148",
+        "contact:website": "http://www.pivoteka465.ru",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Пивотека 465",
+        "opening_hours": "Mo-Th 13:00-23:00; Fr-Su 11:00-23:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4176705618,
+      "lat": 55.7549604,
+      "lon": 37.637233,
+      "tags": {
+        "contact:phone": "+7 495 7955755",
+        "contact:website": "http://dogmabottleshop.ru",
+        "craft_beer": "yes",
+        "drink": "beer",
+        "name": "Dogma Bottle Shop",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223734916,
+      "lat": 55.7597734,
+      "lon": 37.6581931,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/STRAF-BAR-1796573647230435/timeline",
+        "craft_beer": "yes",
+        "name": "Straf Bar",
+        "opening_hours": "Mo-Su 12:00-23:00; Fr 12:00-24:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31894775,
+      "nodes": [
+        357198189,
+        357197820,
+        357197826,
+        357198190,
+        357198189
+      ],
+      "tags": {
+        "addr:city": "Manchester",
+        "addr:housenumber": "39-41",
+        "addr:postcode": "M4 1HW",
+        "addr:province": "Lancashire",
+        "addr:street": "Edge Street",
+        "amenity": "bar",
+        "building": "yes",
+        "cocktails": "yes",
+        "craft_beer": "yes",
+        "food": "yes",
+        "name": "Common",
+        "real_ale": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 82770789,
+      "nodes": [
+        963510034,
+        963510081,
+        963509484,
+        963509721,
+        963510034
+      ],
+      "tags": {
+        "addr:housenumber": "14a",
+        "addr:postcode": "SE1 9AG",
+        "addr:street": "Winchester Walk",
+        "amenity": "pub",
+        "brewery": "craft beer",
+        "building": "yes",
+        "craft_ale": "yes",
+        "craft_beer": "yes",
+        "name": "The Rake",
+        "real_ale": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "way",
+      "id": 93710880,
+      "nodes": [
+        1088172999,
+        1088172989,
+        1088172992,
+        1088173001,
+        1088172999
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "190",
+        "addr:postcode": "NW1 2EF",
+        "addr:street": "Euston Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:phone": "+44 203 1378837",
+        "contact:website": "http://eustontap.com",
+        "craft_beer": "yes",
+        "food": "third_party",
+        "name": "Euston Tap",
+        "real_ale": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      }
+    },
+    {
+      "type": "way",
+      "id": 189504998,
+      "nodes": [
+        2001086920,
+        2001086919,
+        2001086918,
+        2001086916,
+        2001086915,
+        2001086917,
+        2001086920
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "craft_beer": "yes",
+        "name": "The Magnet",
+        "real_ale": "yes",
+        "real_cider": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231833093,
+      "nodes": [
+        2401624752,
+        2401624754,
+        2401624760,
+        2401624759,
+        2401624752
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "craft_beer": "yes",
+        "name": "Bottle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244772119,
+      "nodes": [
+        1484205776,
+        2520452035,
+        1484205758,
+        1484205739,
+        2520452034,
+        2520452031,
+        2520452033,
+        380494814,
+        1484205776
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "6",
+        "addr:postcode": "W1T 1HL",
+        "addr:street": "Rathbone Place",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "4",
+        "contact:phone": "+44 20 76369330",
+        "craft_beer": "yes",
+        "cuisine": "burger",
+        "name": "Byron",
+        "old_name": "The Black Horse",
+        "opening_hours": "Mo-Th 11:30-23:00; Fr 11:30-00:00; Sa 11:30-23:30; Su 12:00-22:30",
+        "outdoor_seating": "no",
+        "phone": "+44 207 636 9330",
+        "takeaway": "yes",
+        "website": "http://www.byronhamburgers.com/locations/rathbone-place/",
+        "wheelchair": "no",
+        "wifi": "The Cloud"
+      }
+    },
+    {
+      "type": "way",
+      "id": 257148829,
+      "nodes": [
+        2627501391,
+        2627501390,
+        500016552,
+        1139897085,
+        2627501392,
+        2627501391
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "82",
+        "addr:postcode": "EC1N 7TR",
+        "addr:street": "Leather Lane",
+        "amenity": "pub",
+        "building": "yes",
+        "craft_beer": "yes",
+        "name": "The Craft Beer Co.",
+        "opening_hours": "Mo-Sa 12:00-23:00;Su 12:00-22:30",
+        "real_ale": "yes",
+        "real_cider": "yes",
+        "website": "http://thecraftbeerco.com/pubs/clerkenwell/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 280081430,
+      "nodes": [
+        2842613686,
+        2842613711,
+        2842613718,
+        2842613750,
+        2842613730,
+        2842613686
+      ],
+      "tags": {
+        "addr:housenumber": "615",
+        "addr:postcode": "11222",
+        "addr:street": "Manhattan Avenue",
+        "amenity": "bar",
+        "brewery": "Evil Twin",
+        "building": "yes",
+        "contact:phone": "+1 718 3696034",
+        "contact:twitter": "@torst_nyc",
+        "contact:website": "http://torstnyc.com",
+        "craft_beer": "yes",
+        "height": "11.9",
+        "name": "Tørst",
+        "nycdoitt:bin": "3066710"
+      }
+    },
+    {
+      "type": "way",
+      "id": 292242381,
+      "nodes": [
+        2957914677,
+        2957914679,
+        2957914683,
+        2957914680,
+        2957914677
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "5003",
+        "addr:street": "Bryggestredet",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:colour": "red",
+        "building:levels": "2",
+        "contact:phone": "+47 55315955",
+        "craft_beer": "yes",
+        "cuisine": "norwegian",
+        "name": "Bryggen Tracteursted",
+        "roof:colour": "black",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318446421,
+      "nodes": [
+        3248505823,
+        3248505824,
+        3248505825,
+        3248505826,
+        3248505827,
+        3248505828,
+        3248505829,
+        3248505830,
+        3248505831,
+        3248505832,
+        3248505833,
+        3248505834,
+        3248505823
+      ],
+      "tags": {
+        "addr:city": "Minneapolis",
+        "addr:housenumber": "520",
+        "addr:postcode": "55414",
+        "addr:state": "MN",
+        "addr:street": "Southeast Malcolm Avenue",
+        "alt_name": "Surly Brewing Co.",
+        "amenity": "pub",
+        "brewery": "Surly",
+        "building": "brewery",
+        "building:levels": "2",
+        "craft_beer": "yes",
+        "microbrewery": "yes",
+        "name": "Surly Brewery",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
+        "website": "http://surlybrewing.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2842613686,
+      "lat": 40.7233295,
+      "lon": -73.9509487
+    },
+    {
+      "type": "node",
+      "id": 2842613711,
+      "lat": 40.723376,
+      "lon": -73.9509752
+    },
+    {
+      "type": "node",
+      "id": 2842613718,
+      "lat": 40.7233894,
+      "lon": -73.9509346
+    },
+    {
+      "type": "node",
+      "id": 2842613730,
+      "lat": 40.7234101,
+      "lon": -73.9507038
+    },
+    {
+      "type": "node",
+      "id": 2842613750,
+      "lat": 40.7234567,
+      "lon": -73.9507303
+    },
+    {
+      "type": "node",
+      "id": 3248505823,
+      "lat": 44.9734582,
+      "lon": -93.2102726
+    },
+    {
+      "type": "node",
+      "id": 3248505824,
+      "lat": 44.9731622,
+      "lon": -93.2102726
+    },
+    {
+      "type": "node",
+      "id": 3248505825,
+      "lat": 44.9731641,
+      "lon": -93.2101412
+    },
+    {
+      "type": "node",
+      "id": 3248505826,
+      "lat": 44.9730483,
+      "lon": -93.2101412
+    },
+    {
+      "type": "node",
+      "id": 3248505827,
+      "lat": 44.9730502,
+      "lon": -93.2099883
+    },
+    {
+      "type": "node",
+      "id": 3248505828,
+      "lat": 44.9729629,
+      "lon": -93.2099883
+    },
+    {
+      "type": "node",
+      "id": 3248505829,
+      "lat": 44.9729629,
+      "lon": -93.2096423
+    },
+    {
+      "type": "node",
+      "id": 3248505830,
+      "lat": 44.9730521,
+      "lon": -93.209645
+    },
+    {
+      "type": "node",
+      "id": 3248505831,
+      "lat": 44.9730483,
+      "lon": -93.2092024
+    },
+    {
+      "type": "node",
+      "id": 3248505832,
+      "lat": 44.9731641,
+      "lon": -93.2092051
+    },
+    {
+      "type": "node",
+      "id": 3248505833,
+      "lat": 44.9731641,
+      "lon": -93.2090227
+    },
+    {
+      "type": "node",
+      "id": 3248505834,
+      "lat": 44.973462,
+      "lon": -93.2090174
+    },
+    {
+      "type": "node",
+      "id": 380494814,
+      "lat": 51.5167045,
+      "lon": -0.1332033
+    },
+    {
+      "type": "node",
+      "id": 1484205739,
+      "lat": 51.5167729,
+      "lon": -0.1328635
+    },
+    {
+      "type": "node",
+      "id": 1484205758,
+      "lat": 51.5167197,
+      "lon": -0.1330361
+    },
+    {
+      "type": "node",
+      "id": 1484205776,
+      "lat": 51.5167474,
+      "lon": -0.1330574
+    },
+    {
+      "type": "node",
+      "id": 2520452031,
+      "lat": 51.5166271,
+      "lon": -0.1331384
+    },
+    {
+      "type": "node",
+      "id": 2520452033,
+      "lat": 51.5166904,
+      "lon": -0.1331915
+    },
+    {
+      "type": "node",
+      "id": 2520452034,
+      "lat": 51.5167191,
+      "lon": -0.132818
+    },
+    {
+      "type": "node",
+      "id": 2520452035,
+      "lat": 51.5167351,
+      "lon": -0.133048
+    },
+    {
+      "type": "node",
+      "id": 1088172989,
+      "lat": 51.5269509,
+      "lon": -0.1324634
+    },
+    {
+      "type": "node",
+      "id": 1088172992,
+      "lat": 51.5270081,
+      "lon": -0.1325194
+    },
+    {
+      "type": "node",
+      "id": 1088172999,
+      "lat": 51.5269148,
+      "lon": -0.1325588
+    },
+    {
+      "type": "node",
+      "id": 1088173001,
+      "lat": 51.5269721,
+      "lon": -0.1326148
+    },
+    {
+      "type": "node",
+      "id": 1139897085,
+      "lat": 51.5212356,
+      "lon": -0.1097728
+    },
+    {
+      "type": "node",
+      "id": 500016552,
+      "lat": 51.5212262,
+      "lon": -0.1097779
+    },
+    {
+      "type": "node",
+      "id": 2627501390,
+      "lat": 51.5211843,
+      "lon": -0.1097592
+    },
+    {
+      "type": "node",
+      "id": 2627501391,
+      "lat": 51.5212058,
+      "lon": -0.109657
+    },
+    {
+      "type": "node",
+      "id": 2627501392,
+      "lat": 51.5212642,
+      "lon": -0.1096819
+    },
+    {
+      "type": "node",
+      "id": 963509484,
+      "lat": 51.5060995,
+      "lon": -0.0912149
+    },
+    {
+      "type": "node",
+      "id": 963509721,
+      "lat": 51.5061097,
+      "lon": -0.0913815
+    },
+    {
+      "type": "node",
+      "id": 963510034,
+      "lat": 51.5061969,
+      "lon": -0.0913677
+    },
+    {
+      "type": "node",
+      "id": 963510081,
+      "lat": 51.5061867,
+      "lon": -0.0912011
+    },
+    {
+      "type": "node",
+      "id": 357197820,
+      "lat": 53.4842318,
+      "lon": -2.235697
+    },
+    {
+      "type": "node",
+      "id": 357197826,
+      "lat": 53.4841095,
+      "lon": -2.2359074
+    },
+    {
+      "type": "node",
+      "id": 357198189,
+      "lat": 53.4844054,
+      "lon": -2.2359822
+    },
+    {
+      "type": "node",
+      "id": 357198190,
+      "lat": 53.4842831,
+      "lon": -2.2361925
+    },
+    {
+      "type": "node",
+      "id": 2001086915,
+      "lat": 53.4122358,
+      "lon": -2.1672398
+    },
+    {
+      "type": "node",
+      "id": 2001086916,
+      "lat": 53.4123021,
+      "lon": -2.1673284
+    },
+    {
+      "type": "node",
+      "id": 2001086917,
+      "lat": 53.4123167,
+      "lon": -2.1670852
+    },
+    {
+      "type": "node",
+      "id": 2001086918,
+      "lat": 53.4123313,
+      "lon": -2.1672624
+    },
+    {
+      "type": "node",
+      "id": 2001086919,
+      "lat": 53.4124032,
+      "lon": -2.1673585
+    },
+    {
+      "type": "node",
+      "id": 2001086920,
+      "lat": 53.412456,
+      "lon": -2.167253
+    },
+    {
+      "type": "node",
+      "id": 2401624752,
+      "lat": 53.4228922,
+      "lon": -2.1848167
+    },
+    {
+      "type": "node",
+      "id": 2401624754,
+      "lat": 53.4229193,
+      "lon": -2.1848784
+    },
+    {
+      "type": "node",
+      "id": 2401624759,
+      "lat": 53.4229941,
+      "lon": -2.184689
+    },
+    {
+      "type": "node",
+      "id": 2401624760,
+      "lat": 53.4230216,
+      "lon": -2.1847517
+    },
+    {
+      "type": "node",
+      "id": 2957914677,
+      "lat": 60.3976358,
+      "lon": 5.3245116
+    },
+    {
+      "type": "node",
+      "id": 2957914679,
+      "lat": 60.3976959,
+      "lon": 5.3244035
+    },
+    {
+      "type": "node",
+      "id": 2957914680,
+      "lat": 60.3976908,
+      "lon": 5.3246381
+    },
+    {
+      "type": "node",
+      "id": 2957914683,
+      "lat": 60.3977515,
+      "lon": 5.324538
+    }
+  ]
+}
