@@ -33,29 +33,43 @@
       .map-thumbnail-image {
         width: 100%;
       }
+
+      header {
+        margin-bottom: 15px;
+      }
+      .header-title {
+        margin-bottom: 0px;
+        text-align: bottom;
+      }
     </style>
   </head>
   <body>
-    <h1>OSM I/O</h1>
-    <p>
-      A study in getting data into and out of OpenStreetMap.
-    </p>
+    <header>
+      <h1 class="header-title">
+        OSM I/O
+      </h1>
+      <span class="header-subtitle">A study in getting data into and out of OpenStreetMap.</span>
+    </header>
+
     <p>
       MaptimeLA attendees made maps based on their interests, using data extracted from OpenStreetMap.
     </p>
     <ul class="map-thumbnails">
       <li class="map-thumbnail">
         <h2 class="map-thumbnail-title">
-          <a href="hamburgers/">Hamburger Map</a>
+          <a href="beeeers/">Beeeer Map</a>
         </h2>
         <p>
-          by <a href="https://github.com/michaelkirk">@michaelkirk</a>
+          by <a href="https://github.com/ladyshisha">@ladyshisha</a>
         </p>
-        <a href="hamburgers/">
-          <img class="map-thumbnail-image" src="images/hamburger.jpg" />
+        <a href="beeeers/">
+          <img class="map-thumbnail-image" src="images/beer.jpg" />
         </a>
         <p>
-          A map of hamburger joints across Los Angeles.
+          Exploration of Beers around the world near natural water sources.
+          Interest in mapping California natural/clean water sources near
+          breweries and find potential lots for potential craft brewery
+          development.
         </p>
       </li>
       <li class="map-thumbnail">
@@ -72,7 +86,20 @@
           Toilet's across california!
         </p>
       </li>
-
+      <li class="map-thumbnail">
+        <h2 class="map-thumbnail-title">
+          <a href="hamburgers/">Burger Map</a>
+        </h2>
+        <p>
+          by <a href="https://github.com/michaelkirk">@michaelkirk</a>
+        </p>
+        <a href="hamburgers/">
+          <img class="map-thumbnail-image" src="images/hamburger.jpg" />
+        </a>
+        <p>
+          A map of hamburger joints in Los Angeles. Angelenos ♥ burgers!
+        </p>
+      </li>
     </ul>
   </body>
 </html>
