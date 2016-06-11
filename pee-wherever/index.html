@@ -41,7 +41,7 @@ var map = L.mapbox.map('map', 'mapbox.streets');
 map.setView([34.0537, -118.2427], 11);
 
 $.ajax({
-  url: "export-jon.json",
+  url: "export.json",
   success: function(osmjson) {
     // Overpass uses a different format of json than leaflet expects.
     // Here we transform it using osmtogeojson
